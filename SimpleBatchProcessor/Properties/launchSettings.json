@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ep5BAS": {
+      "commandName": "Project",
+      "sqlDebugging": true
+    }
+  }
+}
